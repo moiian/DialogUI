@@ -15,4 +15,4 @@ The icons are made separately because the only way to put them in the addon is t
 
 ## Optional Download
 
-[HD Icons](https://drive.google.com/file/d/19rKBuvAtd2Kl9oYqCF_x0hTdPnCU6Hc5/view?usp=sharing) 
+[HD Icons](https://drive.google.com/file/d/19rKBuvAtd2Kl9oYqCF_x0hTdPnCU6Hc5/view?usp=sharing) to install simply extract and drop the contents of Root Folder into your game's root folder so you will end with a new folder called GossipFrame inside your Interface folder
