@@ -2,7 +2,33 @@
 
 Hi! this addon was made with the sole purpose of learning how to make wow addOns. This newer version uses Blizzard original code with some tweaks to properly handle icons natively, that's right, you read it right, now the gossip shows the icons that represent the option.
 
---gif here
+![preview1](https://github.com/Jslquintero/DialogUI/blob/main/src/preview/Screenshot%20From%202025-06-18%2000-34-14.png)
+![preview2](https://github.com/Jslquintero/DialogUI/blob/main/src/preview/Screenshot%20From%202025-06-18%2000-34-24.png)
+![preview3](https://github.com/Jslquintero/DialogUI/blob/main/src/preview/Screenshot%20From%202025-06-18%2000-34-35.png)
+![preview4](https://github.com/Jslquintero/DialogUI/blob/main/src/preview/Screenshot%20From%202025-06-18%2000-35-57.png)
+![preview5](https://github.com/Jslquintero/DialogUI/blob/main/src/preview/Screenshot%20From%202025-06-18%2000-37-32.png)
+![preview6](https://github.com/Jslquintero/DialogUI/blob/main/src/preview/Screenshot%20From%202025-06-18%2000-37-38.png)
+![preview7](https://github.com/Jslquintero/DialogUI/blob/main/src/preview/Screenshot%20From%202025-06-18%2000-41-14.png)
+![preview8](https://github.com/Jslquintero/DialogUI/blob/main/src/preview/Screenshot%20From%202025-06-18%2000-42-06.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [DialogueUI](https://www.curseforge.com/wow/addons/dialogueui) was obviously the inspiration for this new look.
 
@@ -11,6 +37,8 @@ Hi! this addon was made with the sole purpose of learning how to make wow addOns
 Please before reporting any problem please disable all your addons just keep DialogUI active and try again, if the problem persists you are free to post the problem.
 
 ### How to report an issue?
+![step-one](https://github.com/Jslquintero/DialogUI/blob/main/src/preview/issue-1.png)
+![step-two](https://github.com/Jslquintero/DialogUI/blob/main/src/preview/issue-2.png)
 
 # Customize it!
 
