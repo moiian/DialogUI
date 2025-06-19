@@ -2,6 +2,8 @@
 
 Hi! this addon was made with the sole purpose of learning how to make wow addOns. This newer version uses Blizzard original code with some tweaks to properly handle icons natively, that's right, you read it right, now the gossip shows the icons that represent the option.
 
+This should work with vanilla client or custom one like Turtle-WoW.
+
 
 <h3>My Gallery</h3>
 
@@ -45,6 +47,8 @@ To change the style of the buttons or of the frame :
 # Español
 
 ¡Hola! este addon fue hecho con la unica intención de aprender como hacer addons. Esta nueva versión utiliza el código original hecho por Blizzard pero se agregan algunas mejoras para poder mostrar los iconos de forma nativa, así es, leíste bien, ahora la ventana de diálogos ahora muestra los iconos representativos de cada opción.
+
+Debe funcionar con el cliente vanilla o personalizado como Turtle-WoW.
 
 Pequeña nota:
 
