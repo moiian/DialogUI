@@ -4,7 +4,6 @@ Hi! this addon was made with the sole purpose of learning how to make wow addOns
 
 This should work with vanilla client or custom one like Turtle-WoW.
 
-
 <h3>My Gallery</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
@@ -26,7 +25,7 @@ Please before reporting any problem please disable all your addons just keep Dia
 
 ### How to report an issue?
 
-[issues page](https://github.com/Jslquintero/DialogUI/issues/new) 
+[issues page](https://github.com/Jslquintero/DialogUI/issues/new)
 
 # Customize it!
 
