@@ -6,16 +6,10 @@ This should work with vanilla client or custom one like Turtle-WoW.
 
 <h3>My Gallery</h3>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://raw.githubusercontent.com/Jslquintero/DialogUI/main/src/preview/Screenshot%20From%202025-06-18%2000-34-14.png" style="width: 30%; min-width: 200px;" />
-  <img src="https://raw.githubusercontent.com/Jslquintero/DialogUI/main/src/preview/Screenshot%20From%202025-06-18%2000-34-24.png" style="width: 30%; min-width: 200px;" />
-  <img src="https://raw.githubusercontent.com/Jslquintero/DialogUI/main/src/preview/Screenshot%20From%202025-06-18%2000-34-35.png" style="width: 30%; min-width: 200px;" />
-  <img src="https://raw.githubusercontent.com/Jslquintero/DialogUI/main/src/preview/Screenshot%20From%202025-06-18%2000-35-57.png" style="width: 30%; min-width: 200px;" />
-  <img src="https://raw.githubusercontent.com/Jslquintero/DialogUI/main/src/preview/Screenshot%20From%202025-06-18%2000-37-32.png" style="width: 30%; min-width: 200px;" />
-  <img src="https://raw.githubusercontent.com/Jslquintero/DialogUI/main/src/preview/Screenshot%20From%202025-06-18%2000-37-38.png" style="width: 30%; min-width: 200px;" />
-  <img src="https://raw.githubusercontent.com/Jslquintero/DialogUI/main/src/preview/Screenshot%20From%202025-06-18%2000-41-14.png" style="width: 30%; min-width: 200px;" />
-  <img src="https://raw.githubusercontent.com/Jslquintero/DialogUI/main/src/preview/Screenshot%20From%202025-06-18%2000-42-06.png" style="width: 30%; min-width: 200px;" />
-</div>
+![image](https://github.com/user-attachments/assets/e8f119c3-cd0b-42ff-aa83-3d19dd23e76a)
+![image](https://github.com/user-attachments/assets/9182f8e1-173c-4893-974c-781adf200ad1)
+![image](https://github.com/user-attachments/assets/2efac0ce-e4c5-4cf7-8b75-c7eedaedad58)
+![image](https://github.com/user-attachments/assets/85c79713-e84a-45ad-8484-5d586b2220bc)
 
 [DialogueUI](https://www.curseforge.com/wow/addons/dialogueui) was obviously the inspiration for this new look.
 
