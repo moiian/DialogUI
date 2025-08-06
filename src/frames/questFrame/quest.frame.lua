@@ -318,23 +318,20 @@ function DQuestFrameGreetingPanel_OnShow()
         getglobal("DQuestTitleButton" .. i):Hide();
     end
     
-    -- Enable keyboard capture for this frame
-    DQuestFrame:EnableKeyboard(true);
-    DQuestFrame:SetScript("OnKeyDown", DQuestFrame_OnKeyDown);
 end
 
 function DQuestFrame_OnKeyDown()
     local key = arg1;
     
     -- Handle ESC key to close
-    if key == "ESCAPE" then
+    if key == "B" then
         HideUIPanel(DQuestFrame);
         return
     end
 
     -- Handle spacebar press to select first option
  -- Handle spacebar press
- if (key == "SPACE") then
+ if (key == "X") then
     -- Check which panel is currently visible and trigger appropriate action
     if (DQuestFrameDetailPanel:IsVisible()) then
         -- Quest Detail panel - Accept quest
@@ -383,6 +380,9 @@ end
 
 function DQuestFrame_OnShow()
     PlaySound("igQuestListOpen");
+    -- Enable keyboard capture for this frame
+    DQuestFrame:EnableKeyboard(true);
+    DQuestFrame:SetScript("OnKeyDown", DQuestFrame_OnKeyDown);
 end
 
 function DQuestFrame_OnHide()
