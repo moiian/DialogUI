@@ -1,4 +1,9 @@
-# DialogUI
+# DialogUI - FixEdition
+
+> ⚠️ This project is a modified and maintained fork of the original [DialogUI](https://github.com/Jslquintero/DialogUI) by **Jslquintero**.  
+> This version fixes the key binding issue in the quest interface and may continue to receive updates and improvements.  
+> All credit for the original design and implementation goes to the original author.  
+> This fork is not affiliated with the original author.
 
 Hi! this addon was made with the sole purpose of learning how to make wow addOns. This newer version uses Blizzard original code with some tweaks to properly handle icons natively, that's right, you read it right, now the gossip shows the icons that represent the option.
 
