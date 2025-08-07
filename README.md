@@ -6,7 +6,8 @@ This should work with vanilla client or custom one like Turtle-WoW.
 
 <h3>My Gallery</h3>
 
-![image](https://github.com/user-attachments/assets/e8f119c3-cd0b-42ff-aa83-3d19dd23e76a)
+<img src="https://github.com/user-attachments/assets/3f0281d9-4fae-423a-a0fb-5ab092d004af" width="605"/>
+
 ![image](https://github.com/user-attachments/assets/9182f8e1-173c-4893-974c-781adf200ad1)
 ![image](https://github.com/user-attachments/assets/2efac0ce-e4c5-4cf7-8b75-c7eedaedad58)
 ![image](https://github.com/user-attachments/assets/85c79713-e84a-45ad-8484-5d586b2220bc)
